@@ -1,0 +1,29 @@
+2023-02-28 07:26:46,637 WARN  [SoapUI] Missing folder [D:\Study\CucumberPOM-Aug22\SoapProjectFeb23\ext] for external libraries
+2023-02-28 07:26:46,751 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\amolu\soapui-settings.xml]
+2023-02-28 07:26:47,755 INFO  [Reflections] Reflections took 63 ms to scan 2 urls, producing 75 keys and 160 values 
+2023-02-28 07:26:47,867 INFO  [Reflections] Reflections took 16 ms to scan 1 urls, producing 46 keys and 344 values 
+2023-02-28 07:26:47,887 INFO  [Reflections] Reflections took 6 ms to scan 1 urls, producing 11 keys and 17 values 
+2023-02-28 07:26:47,905 INFO  [Reflections] Reflections took 5 ms to scan 1 urls, producing 13 keys and 21 values 
+2023-02-28 07:26:48,125 INFO  [Reflections] Reflections took 186 ms to scan 13 urls, producing 341 keys and 1458 values 
+2023-02-28 07:26:48,133 INFO  [PluginManager] Adding plugin from [C:\Users\amolu\.soapuios\plugins\ready-mqtt-plugin-dist.jar]
+2023-02-28 07:26:48,133 INFO  [PluginManager] Adding plugin from [C:\Users\amolu\.soapuios\plugins\soapui-swagger-plugin-2.2-dist.jar]
+2023-02-28 07:26:48,218 INFO  [Reflections] Reflections took 37 ms to scan 2 urls, producing 75 keys and 160 values 
+2023-02-28 07:26:48,299 INFO  [Reflections] Reflections took 133 ms to scan 13 urls, producing 341 keys and 1458 values 
+2023-02-28 07:26:48,556 INFO  [Reflections] Reflections took 331 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2023-02-28 07:26:48,579 INFO  [PluginManager] Adding plugin from [C:\Users\amolu\.soapuios\plugins\ready-uxm-plugin-os-1.0.3.jar]
+2023-02-28 07:26:48,636 INFO  [Reflections] Reflections took 329 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2023-02-28 07:26:48,650 INFO  [PluginManager] Adding plugin from [C:\Users\amolu\.soapuios\plugins\readyapi-postman-1.0.1.jar]
+2023-02-28 07:26:48,654 INFO  [Reflections] Reflections took 9 ms to scan 1 urls, producing 46 keys and 344 values 
+2023-02-28 07:26:48,667 INFO  [Reflections] Reflections took 5 ms to scan 1 urls, producing 11 keys and 17 values 
+2023-02-28 07:26:48,939 INFO  [Reflections] Reflections took 281 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2023-02-28 07:26:48,943 INFO  [PluginManager] Adding plugin from [C:\Users\amolu\.soapuios\plugins\readyapi-swaggerhub-plugin-1.0.jar]
+2023-02-28 07:26:48,948 INFO  [Reflections] Reflections took 278 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2023-02-28 07:26:48,959 INFO  [Reflections] Reflections took 5 ms to scan 1 urls, producing 13 keys and 21 values 
+2023-02-28 07:26:49,199 INFO  [Reflections] Reflections took 237 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2023-02-28 07:26:49,206 INFO  [PluginManager] 5 plugins loaded in 1072 ms
+2023-02-28 07:26:49,206 INFO  [DefaultSoapUICore] All plugins loaded
+2023-02-28 07:26:49,370 INFO  [SoapUI] File [D:\Study\CucumberPOM-Aug22\SoapProjectFeb23\file:\C:\Users\amolu\Documents\Deck-of-API-feb-23-soapui-project.xml] does not exist, trying URL instead
+2023-02-28 07:26:49,722 INFO  [WsdlProject] Loaded project from [file:/C:/Users/amolu/Documents/Deck-of-API-feb-23-soapui-project.xml]
+2023-02-28 07:26:50,633 INFO  [log] {"success": true, "deck_id": "fqfh6n6cn9ua", "remaining": 52, "shuffled": true}
+2023-02-28 07:26:50,656 INFO  [log] 52
+2023-02-28 07:26:50,656 INFO  [log] 52
